@@ -165,7 +165,7 @@
      .home-image {
          width: 13rem;
          height: 9rem;
-         margin: 0rem 0rem 0rem 6.7rem;
+         margin: 0rem 0rem 0rem 4.75rem;
      }
      .little {
          width: 100% !important;
@@ -194,4 +194,8 @@
          margin: 0rem;
          padding: 0rem;
      }
+     .anime-logos {
+         width: 1.55rem;
+         height: 1.55rem;
+     } 
  }
